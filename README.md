@@ -31,8 +31,4 @@
 <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanliaqat313&show_icons=true&locale=en&layout=compact" alt="zeeshanliaqat313" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umimehar&show_icons=true&locale=en" alt="umimehar" /></p> -->
-
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanliaqat313&" alt="zeeshanliaqat313" /></p>
