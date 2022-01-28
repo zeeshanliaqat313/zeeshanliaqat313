@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Zeeshan</h1>
-<h3 align="center">Software Engineer/h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center"> <a href="https://twitter.com/umimeharr" target="blank"><img src="https://img.shields.io/twitter/follow/zeshanliaqat313?logo=twitter&style=for-the-badge" alt="zeshanliaqat313" /></a> </p>
 
