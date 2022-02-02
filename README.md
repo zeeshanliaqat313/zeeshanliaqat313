@@ -1,9 +1,9 @@
 <h1 align="center">Hi There 👋, I'm Zeeshan</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center"> <a href="https://twitter.com/umimeharr" target="blank"><img src="https://img.shields.io/twitter/follow/zeshanliaqat313?logo=twitter&style=for-the-badge" alt="zeshanliaqat313" /></a> </p>
+<p align="center"> <a href="https://twitter.com/zeshanliaqat313" target="blank"><img src="https://img.shields.io/twitter/follow/zeshanliaqat313?logo=twitter&style=for-the-badge" alt="zeshanliaqat313" /></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=umimehar&label=Profile%20views&color=0e75b6&style=flat" alt="umimehar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeshanliaqat313&label=Profile%20views&color=0e75b6&style=flat" alt="zeshanliaqat313" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
