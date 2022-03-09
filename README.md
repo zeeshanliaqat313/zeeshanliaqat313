@@ -32,3 +32,7 @@
 </a>
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanliaqat313&" alt="zeeshanliaqat313" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanliaqat313&show_icons=true&locale=en&layout=compact" alt="zeeshanliaqat313" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshanliaqat313&show_icons=true&locale=en" alt="zeeshanliaqat313" /></p>
+
